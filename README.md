@@ -1,2 +1,6 @@
 # hello-word
 Aprendendo Python3, ajuda será sempre bem vinda!
+Um pouco sobre oque acredito...
+Tudo q é grande, começou pequeno...
+Segue o compromisso... o céu é o limite!
+
